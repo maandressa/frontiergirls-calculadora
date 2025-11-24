@@ -1,3 +1,5 @@
+2025-11-23_21h04_53.png
+
 # Agente Calculadora no Azure Foundry
 
 ## Descrição do Projeto

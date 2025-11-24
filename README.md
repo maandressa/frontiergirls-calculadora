@@ -1,5 +1,3 @@
-2025-11-23_21h04_53.png
-
 # Agente Calculadora no Azure Foundry
 
 ## Descrição do Projeto
@@ -26,26 +24,34 @@ O objetivo é demonstrar como criar, configurar e testar um agente funcional com
 
 ## Prints de Execução
 ### 1. Criação do recurso Azure OpenAI
-![print4](prints/print4.png)
+
+<img width="960" height="410" alt="2025-11-23_21h02_10" src="https://github.com/user-attachments/assets/4c214f44-cbb3-42b1-8eea-143a92838c85" />
+
 
 ### 2. Projeto e agente no Foundry
-![print5](prints/print5.png)
+
+<img width="959" height="413" alt="2025-11-23_21h02_38" src="https://github.com/user-attachments/assets/dfcd174f-347f-428b-a1b4-d577cdce78cb" />
 
 ### 3. Configuração do agente e ação adicionada (prompt do sistema)
-![print6](prints/print6.png)
+
+<img width="960" height="413" alt="2025-11-23_21h03_32" src="https://github.com/user-attachments/assets/277c4d08-0c40-485d-b092-d61f50bd3d29" />
 
 ### 5. Testes no Playground
 - Entrada: `2+3` → Saída: `5`
-  ![print1](prints/print1.png)
   
+<img width="960" height="418" alt="2025-11-23_20h59_50" src="https://github.com/user-attachments/assets/9b19ab50-cfc9-4e0e-900c-d156c8ba2534" />
+
 - Entrada: `10/2` → Saída: `5`
-  ![print3](prints/print3.png)
-  
+ 
+<img width="960" height="414" alt="2025-11-23_21h00_37" src="https://github.com/user-attachments/assets/a7c1388a-4362-4d34-9a8f-3da44ca535e2" />
+
 - Entrada: `4*5` → Saída: `20`
-  ![print7](prints/print7.png)
+  
+<img width="960" height="417" alt="2025-11-23_21h04_19" src="https://github.com/user-attachments/assets/7b2ee2cc-5e48-4b13-a3fd-46d5a8dabbb8" />
   
 - Entrada: `10/0` → Saída: `Erro: divisão por zero não permitida`  
-  ![print8](prints/print8.png)
+  
+<img width="960" height="412" alt="2025-11-23_21h04_53" src="https://github.com/user-attachments/assets/a6a060fa-a7a1-4049-aa51-98d5fd3af64e" />
 
 ---
 

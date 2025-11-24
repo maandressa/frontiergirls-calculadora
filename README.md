@@ -24,26 +24,26 @@ O objetivo é demonstrar como criar, configurar e testar um agente funcional com
 
 ## Prints de Execução
 ### 1. Criação do recurso Azure OpenAI
-![print1](prints/print4.png)
+![print4](prints/print4.png)
 
 ### 2. Projeto e agente no Foundry
-![print2](prints/print5.png)
+![print5](prints/print5.png)
 
 ### 3. Configuração do agente e ação adicionada (prompt do sistema)
-![print3](prints/print6.png)
+![print6](prints/print6.png)
 
 ### 5. Testes no Playground
 - Entrada: `2+3` → Saída: `5`
-  ![print3](prints/print1.png)
+  ![print1](prints/print1.png)
   
 - Entrada: `10/2` → Saída: `5`
   ![print3](prints/print3.png)
   
 - Entrada: `4*5` → Saída: `20`
-  ![print3](prints/print7.png)
+  ![print7](prints/print7.png)
   
 - Entrada: `10/0` → Saída: `Erro: divisão por zero não permitida`  
-  ![print3](prints/print8.png)
+  ![print8](prints/print8.png)
 
 ---
 
